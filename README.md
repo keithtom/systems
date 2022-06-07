@@ -4,7 +4,7 @@
 
 I'm hoping to document my productivity thoughts and systems here, mostly for my personal use and remembering.
 
-
+This is a public repository.
 
 
 
